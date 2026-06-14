@@ -4,6 +4,8 @@ Classic BonziWORLD has been shut down due to all of you supporting a irish sicko
 
 All the source code for the server and client is publically available here. If you want to run your own CB, by all means go ahead. Do whatever you'd like with this code. You don't even need to credit me
 
+I am also no longer owning Classic BonziWORLD and gave all BonziWORLD and Discord server rights to someone else
+
 ## Dependencies
 You will need Node.JS and npm to run the server
 
